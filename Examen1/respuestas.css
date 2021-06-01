@@ -1,0 +1,20 @@
+#pregunta-uno{
+	color: red;
+}
+
+.pregunta-dos{
+	background-color: blue;
+	color: white;
+}
+
+#pregunta-tres{
+	color: green;
+}
+
+#pregunta-tres:hover {
+	color:red;
+}
+
+.pregunta-cinco{
+	background-color: red;
+}
